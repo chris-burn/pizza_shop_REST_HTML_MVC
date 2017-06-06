@@ -1,0 +1,14 @@
+REST Lab/Homework - Pizza Orders
+
+Create routes and views for the following.
+
+Create a customer, View all customers, individual customer, edit customer name and delete a customer. (Customer name should be a clcikable link to take you to individual customer details)
+Extensions:
+
+Change the viewing of all pizza orders so that instead of customer id it shows the customer name (again this should be clickable link to view that customer.)
+
+When editing the pizza order they should be able to change the customer by means of a drop down listing all saved customers.
+
+Further extension:
+
+Add some CSS to pages.
